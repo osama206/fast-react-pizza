@@ -1,7 +1,3 @@
-Sure, here’s the README with links to the technologies' official websites:
-
----
-
 # Fast React Pizza
 
 Welcome to the Fast React Pizza project! This is a web application for ordering pizza, built using React, Redux, and various other modern web technologies. The app allows users to browse a menu, add items to a cart, place orders, and track the status of their orders.
